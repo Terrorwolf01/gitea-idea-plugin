@@ -4,7 +4,7 @@
 
 ## [Unreleased]
 
-- Supports all future versions of JetBrains IDEs.
+- Support IntelliJ IDEA 2026.x
 
 ## [0.7.0] - 2026-05-05
 
